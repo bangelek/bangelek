@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bangelek
-- 👀 I’m interested in dATA sCIENCE
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science and Crypto
+- ML algorythms
+- 💞️ I’m looking to collaborate on Crypto Analysis
+- 📫 How to reach me makeadifferenceinnm@gmail.com  
 
 <!---
 bangelek/bangelek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
